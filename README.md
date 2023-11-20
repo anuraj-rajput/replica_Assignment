@@ -22,7 +22,7 @@ This project is meticulously organized into modular components, each serving a s
 
 2. **Navigate to the project directory:**
     ```bash
-    cd VITE_REACT_PROJECT
+    cd replica_AssignmentPAF
     ```
 
 3. **Install Dependencies:**
